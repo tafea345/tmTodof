@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "React NAtive Todo app with firebase",
+    "name": "React Native Todo app with firebase",
     "slug": "tmTodoApp",
     "platforms": [
       "ios",
